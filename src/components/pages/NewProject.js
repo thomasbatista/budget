@@ -21,8 +21,8 @@ function NewProject() {
         .then((resp) => resp.json())
         .then((data) => {
             console.log(data)
-            //redirect
-            history('/projects', { message: 'Projeto criado com sucesso!' })
+            //redirect (passando a mensagem via `state` do react-router)
+            history('/projects', { state: { message: 'Projeto criado com sucesso!' } })
         })
         .catch(err => console.log(err))
     }
