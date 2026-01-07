@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "20ac",
-      "name": "Novo projeto",
-      "budget": "500",
+      "name": "Projeto de design",
+      "budget": "100",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "3",
+        "name": "Design"
       },
       "costs": 0,
       "services": []
