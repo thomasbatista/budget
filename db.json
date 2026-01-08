@@ -8,15 +8,19 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 10,
-      "services": [
-        {
-          "name": "teste",
-          "cost": "10",
-          "description": "teste",
-          "id": "0946622d-e24c-4b51-a390-ac516c06e593"
-        }
-      ]
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d6fd",
+      "name": "Nome",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
