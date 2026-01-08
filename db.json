@@ -1,26 +1,22 @@
 {
   "projects": [
     {
-      "id": "c0f8",
-      "name": "Novo projeto",
-      "budget": "90",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "d6fd",
-      "name": "Nome",
+      "id": "9238",
+      "name": "Projeto",
       "budget": "10000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 500,
+      "services": [
+        {
+          "name": "Serviço exemplo",
+          "cost": "500",
+          "description": "Descrição do serviço",
+          "id": "5322afc4-326f-4361-9d7a-5ec37c3074a6"
+        }
+      ]
     }
   ],
   "categories": [
