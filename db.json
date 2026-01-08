@@ -1,15 +1,22 @@
 {
   "projects": [
     {
-      "id": "20ac",
-      "name": "Projeto de design",
-      "budget": "100",
+      "id": "c0f8",
+      "name": "Novo projeto",
+      "budget": "90",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "1",
+        "name": "Infra"
       },
-      "costs": 0,
-      "services": []
+      "cost": 10,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "10",
+          "description": "teste",
+          "id": "0946622d-e24c-4b51-a390-ac516c06e593"
+        }
+      ]
     }
   ],
   "categories": [
