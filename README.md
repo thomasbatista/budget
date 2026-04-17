@@ -1,27 +1,30 @@
-# Budget - Gerenciador de Projetos
+# Budget - Project Manager
 
-Projeto desenvolvido baseado no curso de React do **Hora de Codar**, uma aplicação web para gerenciar projetos e orçamentos de forma simples e intuitiva.
+Project developed based on the **Hora de Codar** React course, a web application to manage projects and budgets in a simple and intuitive way.
 
-## 📋 Sobre o Projeto
+## 📋 About the Project
 
-O **Budget** é uma aplicação React que permite:
-- Criar e gerenciar projetos
-- Definir orçamentos para cada projeto
-- Adicionar serviços aos projetos
-- Acompanhar gastos com produtos/serviços
-- Visualizar informações de contato e empresa
+**Budget** is a React application that allows you to:
 
-## 🚀 Como Usar
+- Create and manage projects
+- Set budgets for each project
+- Add services to projects
+- Track spending on products/services
+- View contact and company information
 
-### Instalação
+## 🚀 How to Use
+
+### Installation
+
 ```bash
 npm install
 ```
 
-### Executar em Desenvolvimento
-Para rodar a aplicação e o servidor de dados:
+### Run in Development
 
-**Terminal 1 - Aplicação:**
+To run the application and the data server:
+
+**Terminal 1 - Application:**
 ```bash
 npm start
 ```
@@ -31,13 +34,12 @@ npm start
 npm run backend
 ```
 
-A aplicação abrirá em [http://localhost:3000](http://localhost:3000)
+The application will open at [http://localhost:3000](http://localhost:3000)
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **React** - Biblioteca para interface
-- **React Router** - Navegação entre páginas
-- **React Icons** - Ícones
-- **JSON Server** - API local para dados
-- **UUID** - Geração de IDs únicos
-
+- **React** - UI library
+- **React Router** - Page navigation
+- **React Icons** - Icons
+- **JSON Server** - Local data API
+- **UUID** - Unique ID generation
